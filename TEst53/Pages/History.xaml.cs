@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using TEst53.Data;
 
 namespace TEst53.Pages
 {
@@ -20,9 +21,18 @@ namespace TEst53.Pages
     /// </summary>
     public partial class History : Page
     {
-        public History()
+        private Data.PartnersImport _partner;
+        //public Data.PartnersImport _currentpartner = new Data.PartnersImport();
+        public History(Data.PartnersImport partner)
         {
             InitializeComponent();
+            _partner = partner;
+            HistoryGrid.ItemsSource = Data.MasterFloorEntities.GetContext().PartnerProductsImport.Where(p=> p.IdPartnerName == _partner.IdPartnerName).ToList();
+        }
+
+        private void BackButton_Click(object sender, RoutedEventArgs e)
+        {
+            Classes.Manager.MainFrame.Navigate(new Pages.List());
         }
     }
 }

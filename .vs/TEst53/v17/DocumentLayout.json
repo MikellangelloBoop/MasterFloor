@@ -3,56 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|c:\\users\\\u043F\u043A\\source\\repos\\test53\\test53\\pages\\addedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|solutionrelative:test53\\pages\\addedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|c:\\users\\\u043F\u043A\\source\\repos\\test53\\test53\\pages\\addedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|solutionrelative:test53\\pages\\addedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|c:\\users\\\u043F\u043A\\source\\repos\\test53\\test53\\pages\\list.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\test53\\pages\\list.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|solutionrelative:test53\\pages\\list.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|c:\\users\\\u043F\u043A\\source\\repos\\test53\\test53\\pages\\list.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|c:\\users\\\u043F\u043A\\source\\repos\\test53\\test53\\pages\\history.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|solutionrelative:test53\\pages\\history.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\test53\\pages\\history.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|solutionrelative:test53\\pages\\history.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|c:\\users\\\u043F\u043A\\source\\repos\\test53\\test53\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|solutionrelative:test53\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|c:\\users\\\u043F\u043A\\source\\repos\\test53\\test53\\data\\model.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|solutionrelative:test53\\data\\model.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\test53\\pages\\list.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|solutionrelative:test53\\pages\\list.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|c:\\users\\\u043F\u043A\\source\\repos\\test53\\test53\\pages\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|solutionrelative:test53\\pages\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|c:\\users\\\u043F\u043A\\source\\repos\\test53\\test53\\pages\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|solutionrelative:test53\\pages\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|c:\\users\\\u043F\u043A\\source\\repos\\test53\\test53\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|solutionrelative:test53\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|c:\\users\\\u043F\u043A\\source\\repos\\test53\\test53\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|solutionrelative:test53\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|c:\\users\\\u043F\u043A\\source\\repos\\test53\\test53\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|solutionrelative:test53\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|c:\\users\\\u043F\u043A\\source\\repos\\test53\\test53\\classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|solutionrelative:test53\\classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|c:\\users\\\u043F\u043A\\source\\repos\\test53\\test53\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|solutionrelative:test53\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|c:\\users\\\u043F\u043A\\source\\repos\\test53\\test53\\data\\model.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\test53\\data\\model.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|solutionrelative:test53\\data\\model.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|c:\\users\\\u043F\u043A\\source\\repos\\test53\\test53\\data\\directors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|solutionrelative:test53\\data\\directors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\test53\\pages\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|solutionrelative:test53\\pages\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|c:\\users\\\u043F\u043A\\source\\repos\\test53\\test53\\pages\\history.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|solutionrelative:test53\\pages\\history.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\test53\\pages\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|solutionrelative:test53\\pages\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\test53\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|solutionrelative:test53\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\test53\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|solutionrelative:test53\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\test53\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|solutionrelative:test53\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\test53\\classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|solutionrelative:test53\\classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\test53\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|solutionrelative:test53\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\test53\\data\\directors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|solutionrelative:test53\\data\\directors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,20 +86,71 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Pages\\List.xaml.cs",
+              "DocumentIndex": 6,
+              "Title": "Model.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\Data\\Model.edmx",
+              "RelativeDocumentMoniker": "TEst53\\Data\\Model.edmx",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\Data\\Model.edmx [Diagram1]",
+              "RelativeToolTip": "TEst53\\Data\\Model.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-05-31T15:49:01.76Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pages\\History.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\Pages\\History.xaml.cs",
+              "RelativeDocumentMoniker": "TEst53\\Pages\\History.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\Pages\\History.xaml.cs",
+              "RelativeToolTip": "TEst53\\Pages\\History.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T15:37:46.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pages\\AddEdit.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\Pages\\AddEdit.xaml.cs",
+              "RelativeDocumentMoniker": "TEst53\\Pages\\AddEdit.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\Pages\\AddEdit.xaml.cs",
+              "RelativeToolTip": "TEst53\\Pages\\AddEdit.xaml.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAswL4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T14:21:04.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\App.config",
+              "RelativeDocumentMoniker": "TEst53\\App.config",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\App.config",
+              "RelativeToolTip": "TEst53\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-31T14:17:08.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "List.xaml.cs",
               "DocumentMoniker": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\Pages\\List.xaml.cs",
               "RelativeDocumentMoniker": "TEst53\\Pages\\List.xaml.cs",
               "ToolTip": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\Pages\\List.xaml.cs",
               "RelativeToolTip": "TEst53\\Pages\\List.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC8AAABEAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAewCsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-31T13:35:22.189Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\App.xaml",
               "RelativeDocumentMoniker": "TEst53\\App.xaml",
@@ -95,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\App.xaml.cs",
               "RelativeDocumentMoniker": "TEst53\\App.xaml.cs",
@@ -103,13 +170,12 @@
               "RelativeToolTip": "TEst53\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T13:18:29.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-31T13:18:29.232Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Pages\\Login.xaml.cs",
+              "DocumentIndex": 9,
+              "Title": "Login.xaml.cs",
               "DocumentMoniker": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\Pages\\Login.xaml.cs",
               "RelativeDocumentMoniker": "TEst53\\Pages\\Login.xaml.cs",
               "ToolTip": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\Pages\\Login.xaml.cs",
@@ -121,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "Model.Context.cs",
               "DocumentMoniker": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\Data\\Model.Context.cs",
               "RelativeDocumentMoniker": "TEst53\\Data\\Model.Context.cs",
@@ -134,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "Directors.cs",
               "DocumentMoniker": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\Data\\Directors.cs",
               "RelativeDocumentMoniker": "TEst53\\Data\\Directors.cs",
@@ -142,12 +208,11 @@
               "RelativeToolTip": "TEst53\\Data\\Directors.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T13:09:44.52Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-31T13:09:44.52Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 4,
               "Title": "History.xaml",
               "DocumentMoniker": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\Pages\\History.xaml",
               "RelativeDocumentMoniker": "TEst53\\Pages\\History.xaml",
@@ -159,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AddEdit.xaml",
               "DocumentMoniker": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\Pages\\AddEdit.xaml",
               "RelativeDocumentMoniker": "TEst53\\Pages\\AddEdit.xaml",
@@ -171,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "List.xaml",
               "DocumentMoniker": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\Pages\\List.xaml",
               "RelativeDocumentMoniker": "TEst53\\Pages\\List.xaml",
@@ -183,19 +248,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "Login.xaml",
               "DocumentMoniker": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\Pages\\Login.xaml",
               "RelativeDocumentMoniker": "TEst53\\Pages\\Login.xaml",
               "ToolTip": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\Pages\\Login.xaml",
               "RelativeToolTip": "TEst53\\Pages\\Login.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-31T13:07:24.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-31T13:07:24.075Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "Manager.cs",
               "DocumentMoniker": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\Classes\\Manager.cs",
               "RelativeDocumentMoniker": "TEst53\\Classes\\Manager.cs",
@@ -203,12 +267,11 @@
               "RelativeToolTip": "TEst53\\Classes\\Manager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T13:07:12.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-31T13:07:12.025Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\MainWindow.xaml",
               "RelativeDocumentMoniker": "TEst53\\MainWindow.xaml",
@@ -220,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "TEst53\\MainWindow.xaml.cs",
@@ -228,8 +291,7 @@
               "RelativeToolTip": "TEst53\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T13:06:13.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-31T13:06:13.834Z"
             }
           ]
         }

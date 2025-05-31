@@ -47,10 +47,23 @@
 
             <TextBox x:Name="IdTExtBox" Grid.Row="0" Grid.Column="1" IsEnabled="False" IsReadOnly="True"></TextBox>
             <TextBox x:Name="NameTextBox" Grid.Row="1" Grid.Column="1" ></TextBox>
-            <ComboBox x:Name="TypeComboBox" Grid.Row="2" Grid.Column="1" ></ComboBox>
-            <TextBox x:Name="asdsa" Grid.Row="2" Grid.Column="1" ></TextBox>
-            
+            <ComboBox x:Name="TypeComboBox" Grid.Row="2" Grid.Column="1" DisplayMemberPath="TypeOfPartner1" ></ComboBox>
+            <TextBox x:Name="RaitingBox" Grid.Row="3" Grid.Column="1" ></TextBox>
+            <TextBox x:Name="FIOBOX" Grid.Row="4" Grid.Column="1" ></TextBox>
+            <TextBox x:Name="NumberBox" Grid.Row="5" Grid.Column="1" ></TextBox>
+            <TextBox x:Name="EMAILBOX" Grid.Row="6" Grid.Column="1" ></TextBox>
 
+            <TextBox x:Name="RegionBox" Grid.Row="1" Grid.Column="3" ></TextBox>
+            <TextBox x:Name="CityBOx" Grid.Row="2" Grid.Column="3" ></TextBox>
+            <TextBox x:Name="StreetBox" Grid.Row="3" Grid.Column="3" ></TextBox>
+            <TextBox x:Name="HOUSEBOx" Grid.Row="4" Grid.Column="3" ></TextBox>
+            <TextBox x:Name="INDEXBOx" Grid.Row="5" Grid.Column="3" ></TextBox>
+
+
+        </Grid>
+        <Grid Grid.Row="1">
+            <Button x:Name="BackButton" Content="Назад" Click="BackButton_Click" HorizontalAlignment="Left" Margin="302,0,0,0"/>
+            <Button x:Name="SaveButton" Content="Сохранить" Click="SaveButton_Click" HorizontalAlignment="Left" Margin="634,0,0,0"/>
         </Grid>
     </Grid>
 </Page>

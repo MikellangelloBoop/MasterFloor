@@ -33,19 +33,20 @@ namespace TEst53.Pages
 
         private void Add_Click(object sender, RoutedEventArgs e)
         {
-            //Classes.Manager.MainFrame.Navigate(new Pages.AddEdit(null));
+            Classes.Manager.MainFrame.Navigate(new Pages.AddEdit(null));
 
         }
 
         private void EditButton_Click(object sender, RoutedEventArgs e)
         {
-            //Classes.Manager.MainFrame.Navigate(new Pages.AddEdit((sender as Button).DataContext as Data.PartnersImport));
+            Classes.Manager.MainFrame.Navigate(new Pages.AddEdit((sender as Button).DataContext as Data.PartnersImport));
 
         }
 
         private void HistoryButton_Click(object sender, RoutedEventArgs e)
         {
-            Classes.Manager.MainFrame.Navigate(new Pages.History());
+            
+            Classes.Manager.MainFrame.Navigate(new Pages.History((sender as Button).DataContext as Data.PartnersImport));
 
         }
     }

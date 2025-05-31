@@ -6,9 +6,29 @@
       xmlns:local="clr-namespace:TEst53.Pages"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
-      Title="History">
+      Title="ИС - История реализации">
 
     <Grid>
-        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+        </Grid.RowDefinitions>
+        <DataGrid x:Name ="HistoryGrid" Grid.Row="0" AutoGenerateColumns="False" CanUserAddRows="False" CanUserDeleteRows="False" CanUserReorderColumns="False" HorizontalAlignment="Center" VerticalAlignment="Center" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Наименование" CanUserReorder="False" 
+                                    Binding="{Binding Production.NameOfProduction}"></DataGridTextColumn>
+
+                <DataGridTextColumn Header="Количество продукции" CanUserReorder="False" 
+                                    Binding="{Binding CountOfProduction}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Дата продажи" CanUserReorder="False" 
+                                    Binding="{Binding DateOfSale, StringFormat='{}{0:yyyy-MM-dd}'}"></DataGridTextColumn>
+            </DataGrid.Columns>
+
+            
+        </DataGrid>
+        <Button x:Name="BackButton" Grid.Row="1"
+        Content="Назад"
+        HorizontalAlignment="Center"
+        VerticalAlignment="Center" Click="BackButton_Click"></Button>
     </Grid>
 </Page>
