@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|c:\\users\\\u043F\u043A\\source\\repos\\test53\\test53\\pages\\addedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|solutionrelative:test53\\pages\\addedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|c:\\users\\\u043F\u043A\\source\\repos\\test53\\test53\\pages\\list.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|solutionrelative:test53\\pages\\list.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|c:\\users\\\u043F\u043A\\source\\repos\\test53\\test53\\pages\\list.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|solutionrelative:test53\\pages\\list.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|c:\\users\\\u043F\u043A\\source\\repos\\test53\\test53\\pages\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|solutionrelative:test53\\pages\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|c:\\users\\\u043F\u043A\\source\\repos\\test53\\test53\\pages\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|solutionrelative:test53\\pages\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|c:\\users\\\u043F\u043A\\source\\repos\\test53\\test53\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|solutionrelative:test53\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|c:\\users\\\u043F\u043A\\source\\repos\\test53\\test53\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|solutionrelative:test53\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|c:\\users\\\u043F\u043A\\source\\repos\\test53\\test53\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|solutionrelative:test53\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|c:\\users\\\u043F\u043A\\source\\repos\\test53\\test53\\classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|solutionrelative:test53\\classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|c:\\users\\\u043F\u043A\\source\\repos\\test53\\test53\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|solutionrelative:test53\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|c:\\users\\\u043F\u043A\\source\\repos\\test53\\test53\\data\\model.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|solutionrelative:test53\\data\\model.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|c:\\users\\\u043F\u043A\\source\\repos\\test53\\test53\\data\\directors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|solutionrelative:test53\\data\\directors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|c:\\users\\\u043F\u043A\\source\\repos\\test53\\test53\\pages\\history.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{01576F7F-E8A7-4A2D-9A8E-2D6CC744917C}|TEst53\\TEst53.csproj|solutionrelative:test53\\pages\\history.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pages\\List.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\Pages\\List.xaml.cs",
+              "RelativeDocumentMoniker": "TEst53\\Pages\\List.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\Pages\\List.xaml.cs",
+              "RelativeToolTip": "TEst53\\Pages\\List.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T13:35:22.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\App.xaml",
+              "RelativeDocumentMoniker": "TEst53\\App.xaml",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\App.xaml",
+              "RelativeToolTip": "TEst53\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-31T13:18:30.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\App.xaml.cs",
+              "RelativeDocumentMoniker": "TEst53\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\App.xaml.cs",
+              "RelativeToolTip": "TEst53\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T13:18:29.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pages\\Login.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\Pages\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "TEst53\\Pages\\Login.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\Pages\\Login.xaml.cs",
+              "RelativeToolTip": "TEst53\\Pages\\Login.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T13:16:55.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Model.Context.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\Data\\Model.Context.cs",
+              "RelativeDocumentMoniker": "TEst53\\Data\\Model.Context.cs",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\Data\\Model.Context.cs",
+              "RelativeToolTip": "TEst53\\Data\\Model.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T13:09:48.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Directors.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\Data\\Directors.cs",
+              "RelativeDocumentMoniker": "TEst53\\Data\\Directors.cs",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\Data\\Directors.cs",
+              "RelativeToolTip": "TEst53\\Data\\Directors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T13:09:44.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "History.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\Pages\\History.xaml",
+              "RelativeDocumentMoniker": "TEst53\\Pages\\History.xaml",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\Pages\\History.xaml",
+              "RelativeToolTip": "TEst53\\Pages\\History.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-31T13:07:45.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddEdit.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\Pages\\AddEdit.xaml",
+              "RelativeDocumentMoniker": "TEst53\\Pages\\AddEdit.xaml",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\Pages\\AddEdit.xaml",
+              "RelativeToolTip": "TEst53\\Pages\\AddEdit.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-31T13:07:36.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "List.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\Pages\\List.xaml",
+              "RelativeDocumentMoniker": "TEst53\\Pages\\List.xaml",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\Pages\\List.xaml",
+              "RelativeToolTip": "TEst53\\Pages\\List.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-31T13:07:29.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\Pages\\Login.xaml",
+              "RelativeDocumentMoniker": "TEst53\\Pages\\Login.xaml",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\Pages\\Login.xaml",
+              "RelativeToolTip": "TEst53\\Pages\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-31T13:07:24.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\Classes\\Manager.cs",
+              "RelativeDocumentMoniker": "TEst53\\Classes\\Manager.cs",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\Classes\\Manager.cs",
+              "RelativeToolTip": "TEst53\\Classes\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T13:07:12.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TEst53\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\MainWindow.xaml",
+              "RelativeToolTip": "TEst53\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-31T13:06:14.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TEst53\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\source\\repos\\TEst53\\TEst53\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TEst53\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T13:06:13.834Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

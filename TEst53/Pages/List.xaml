@@ -1,0 +1,54 @@
+﻿<Page x:Class="TEst53.Pages.List"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:TEst53.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Ис - список партнеров">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+        </Grid.RowDefinitions>
+        <ListView x:Name="PartnerList" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10" Grid.Row="0">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="250"></ColumnDefinition>
+                            <ColumnDefinition Width="400"></ColumnDefinition>
+                            <ColumnDefinition Width="150"></ColumnDefinition>
+                            <ColumnDefinition Width="150"></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+
+                        <StackPanel Grid.Column="0" VerticalAlignment="Center">
+                            <TextBlock>
+                            <TextBlock Text="{Binding TypeOfPartner.TypeOfPartner1}"></TextBlock>
+                            <Run Text="|"></Run>
+                            <Run Text="{Binding PartnerName.Name}"></Run>
+                        </TextBlock>
+                            <TextBlock Text="{Binding Directors.FIO, StringFormat={}Директор: {0}}"></TextBlock>
+                            <TextBlock Text="{Binding PhoneOfPartner, StringFormat={}Номер телефона: {0}}"></TextBlock>
+                            <TextBlock Text="{Binding Directors.Reiting, StringFormat={}Рейтинг: {0}}"></TextBlock>
+
+                        </StackPanel>
+                        <TextBlock Grid.Column ="1" VerticalAlignment="Center" Text="{Binding Discount, StringFormat={}Скидка: {0}%}"></TextBlock>
+
+                        <Button x:Name="EditButton" Grid.Column="2"
+                                Content="Редактирование"
+                                Click="EditButton_Click"></Button>
+                        <Button x:Name="HistoryButton" Grid.Column="3"
+                                Content="История реализации"
+                                Click="HistoryButton_Click"></Button>
+                    </Grid>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Button x:Name="Back" HorizontalAlignment="Left" Grid.Row="1" Margin="191,0,0,0" Content="Назад" Click="Back_Click"/>
+        <Button x:Name="Add" HorizontalAlignment="Left" Grid.Row="1" Margin="480,0,0,0" Content="Добавить" Click="Add_Click"/>
+    </Grid>
+
+</Page>
